@@ -1,7 +1,8 @@
 ## 👋 Hi There! 
 
 
-I am Emmanuel Onyeji<br/>, a **Flutter Developer** with **4 years of experience** in mobile application development.
+I am Emmanuel Onyeji<br/>
+A **Flutter Developer** with **4 years of experience** in mobile application development.
 
 ---
 
