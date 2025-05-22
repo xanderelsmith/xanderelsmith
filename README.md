@@ -1,7 +1,15 @@
+Hi There! ##
+I am Emmanuel Onyeji, a **Flutter Developer** with **4 years of experience** in mobile application development.
+
+---
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
+🔭 I’m currently working on developing scalable and performant cross-platform mobile applications using Flutter.
+👯 I’m looking to collaborate on open-source Flutter projects that aim to solve real-world problems.
+🤝 I’m looking for help with optimizing app performance for large-scale data handling in Flutter.
+🌱 I’m currently learning advanced animations and custom rendering in Flutter.
+💬 Ask me about anything related to **Flutter development**, state management, or mobile app architecture.
+⚡ Fun fact: Beyond coding, I love **art and animation**, and **drawing** is a favorite pastime!
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/emmanuelonyeji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_techy_xander) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuelonyeji) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/emmanuelonyeji) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Embarrassed_Maize644) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@the_techy_xander) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thetechyxander) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xanderelsmith@gmail.com) 
 
