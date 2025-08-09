@@ -14,7 +14,9 @@ A **Flutter Developer** with **over 4 years of experience** in mobile applicatio
 💬 Ask me about anything related to **Flutter development**, state management, or mobile app architecture.<br/>
 ⚡ Fun fact: Beyond coding, I love **art and animation**, and **drawing** is a favorite pastime!<br/>
 
-Currently building [Luminous EHR](https://luminousehr.vercel.app) for clinics And Utilizing my skills to build real world applications.<br/>
+
+Utilizing my skills to build real world applications.<br/>
+Currently building [Luminous EHR](https://luminousehr.vercel.app) for clinics on the side<br/>
 feel free to reach out to me.
 
 ## 🌐 Socials:
